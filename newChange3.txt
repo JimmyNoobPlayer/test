@@ -1,0 +1,2 @@
+This is the third file
+newChanges are changing many things in new ways.
